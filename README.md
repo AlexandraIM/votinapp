@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # votingapp-ffc
 
 > votingapp for free code camp
@@ -25,3 +26,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# votinapp
+Voting App for free code camp
+>>>>>>> 2b1fedb2bba2c856207b0c41d450d156e0854889
